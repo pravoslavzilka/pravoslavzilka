@@ -87,4 +87,4 @@ level.
 **Tools** — C++/Arduino and PlatformIO on ESP32 · Python, FastAPI, scikit-learn ·
 Modelica in Dymola and OpenModelica · React · PostgreSQL · Fusion 360 and FDM printing
 
-**Reach me** — macky_na_mori@proton.me
+**Reach me** — pravoslav.zilka@gmail.com
